@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RoomDatabase</string>
+    <string name="title_home">Add Text</string>
+    <string name="title_dashboard">List</string>
+    <string name="title_notifications">Clear All</string>
+
+    <string name="title_remove">Remove</string>
+    <string name="title_update">Update</string>
+
+</resources>
